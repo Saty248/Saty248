@@ -7,7 +7,7 @@ Fullstack web and Blockchain Developer
 I am a Software developer skilled in full-stack and Blockchain development, contributed to FinTech/DeFi projects at https://invactor.io (building remittance payments platform in MENA based on Stellar and Soroban), https://www.maroon.io (hybrid crypto exchange), PropTech/DePIN project at https://sky.trade . I specialize in creating robust applications and contributing to innovative projects. Here’s a glimpse of my journey:
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
+* 🖥️  See my portfolio at [My Portfolio]
 * ✉️  You can contact me at [mondal.sayantan1234@gmail.com](mailto:mondal.sayantan1234@gmail.com)
 * 🤝  I'm open to collaborating on web2.0 or web3.0 projects.
 
